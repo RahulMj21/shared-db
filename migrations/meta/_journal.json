@@ -15,6 +15,13 @@
       "when": 1762510229111,
       "tag": "0001_swift_madelyne_pryor",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762512209445,
+      "tag": "0002_nebulous_jasper_sitwell",
+      "breakpoints": true
     }
   ]
 }
